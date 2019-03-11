@@ -1,0 +1,9 @@
+﻿  RORO.cpp
+d:\onedrive\programming\c\mta\מבוא למדעי המחשב\project 1 xo\xoxo\roro\roro.cpp(296): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\onedrive\programming\c\mta\מבוא למדעי המחשב\project 1 xo\xoxo\roro\roro.cpp(322): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\onedrive\programming\c\mta\מבוא למדעי המחשב\project 1 xo\xoxo\roro\roro.cpp(421): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\onedrive\programming\c\mta\מבוא למדעי המחשב\project 1 xo\xoxo\roro\roro.cpp(435): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\onedrive\programming\c\mta\מבוא למדעי המחשב\project 1 xo\xoxo\roro\roro.cpp(463): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\onedrive\programming\c\mta\מבוא למדעי המחשב\project 1 xo\xoxo\roro\roro.cpp(558): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\onedrive\programming\c\mta\מבוא למדעי המחשב\project 1 xo\xoxo\roro\roro.cpp(511): warning C4715: 'convert': not all control paths return a value
+  RORO.vcxproj -> D:\OneDrive\Programming\C\MTA\מבוא למדעי המחשב\Project 1 XO\XOXO\Debug\RORO.exe
